@@ -38,7 +38,7 @@ El archivo debe tener las siguientes columnas:
 
 ## Autores
 
-- [Tu Nombre]
+- [Roberto Bocaz]
 
 ## Licencia
 
