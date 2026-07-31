@@ -36,9 +36,9 @@ Dashboard interactivo para monitorear y analizar tickets de mesa de ayuda.
 El archivo debe tener las siguientes columnas:
 
 
-## Autores
+## Autor
 
-- [Roberto Bocaz]
+- Roberto Bocaz
 
 ## Licencia
 
